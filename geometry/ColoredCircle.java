@@ -4,18 +4,11 @@ public class ColoredCircle extends Circle{
     public ColoredCircle(Point center, int radius) {
         super(center, radius);
     }
-    int hahahahahhaha;
+
+private String color;
 
 
-
-  //Color color;
-
-
-//l;l;llllalalalalfdpdsajf9pwej;
-
-
-
-
-
-  //a terez tp;
+    public String getColor() {
+        return color;
+    }
 }
