@@ -12,7 +12,10 @@ Circle circle= new Circle(point,4);
 
     ColoredCircle coloredCircle=new ColoredCircle(point,3);
     System.out.println(coloredCircle.getColor());
-}
+    Circle circleTable[circle(point);];
+            Colo
 
+
+}
 
 }
